@@ -1,0 +1,8 @@
+{
+  "name": "AI Tutor - Tin học đại cương",
+  "description": "Hệ thống hỗ trợ giảng dạy thông minh: Tự động tạo bài giảng, bài kiểm tra và chấm điểm dựa trên tài liệu.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
